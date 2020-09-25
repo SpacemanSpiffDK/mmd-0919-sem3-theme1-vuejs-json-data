@@ -85,12 +85,16 @@ let beatles = [
     {
         "name": "Ringo Starr",
         "dateOfBirth": "1940-07-07",
+        "activeYears": 10,
+        "alive": true,
         "instruments": [
             {
-                name: "drums"
+                "name": "drums"
+            },
+            {
+                "name": "keyboard"
             }
-        ],
-        "activeYears": 10
+        ]
     }
 ]
 
