@@ -72,7 +72,6 @@ let myPets = [
         name: "Lassie",
         type: "dog",
         race: "Rough Collie"
-
     }
 ];
 
